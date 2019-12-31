@@ -1,0 +1,5 @@
+{
+    "files.watcherExclude": {
+        "/cm-assets/**": true
+    }
+}
